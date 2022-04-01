@@ -1,0 +1,74 @@
+div {
+  height: 200px;
+  width: 100%;
+}
+.TOP {
+  color:#171717;
+  font-family: arial;
+  font-size: 40px;
+  margin:0px;
+  background-color: #000000;
+  text-align: center;
+}
+h2 {
+  color:#000000;
+  font-size: 70px;
+  margin: 0px;
+}
+body {
+  background-color:#171717;
+}
+h3 {
+  color: #000000;
+  font-family: arial;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  color: #000000;
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+}
+.hello {
+  text-align: center;
+  color: #000000;
+  font-size: 20px;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+  font-family: arial;
+  text-align:center;
+}
+/*Text za Linkove od Links.html */
+.LinkH1 {
+  color:#171717;
+  font-size: 40px;
+  font-family: arial;
+  font-weight: 300;
+  margin:0px;
+  background-color: #000000;
+  text-align: center;
+}
+.TITEL {
+  font-size: 70px;
+  margin: 0px;
+  font-weight: 700;
+}
+.Link{
+  position: relative; top: 20px;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+.block {
+  color: white;
+  font-family: sans-serif;
+}
+.block:hover{
+  color: white;
+}
+.block:visited{
+  color: white;
+}
